@@ -1,0 +1,1 @@
+Unfortunately, I lost all of the source code as the SD card for the Raspberry Pi was wiped. However, images of it can still be found here, on my Medium article: https://medium.com/@sidharthsandeep17/pedestrian-detection-system-using-edge-computing-and-machine-learning-0905d592f2b8
